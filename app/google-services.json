@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135353568739",
+    "firebase_url": "https://uts-ti7a-1711500001-heri.firebaseio.com",
+    "project_id": "uts-ti7a-1711500001-heri",
+    "storage_bucket": "uts-ti7a-1711500001-heri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135353568739:android:e706d8509696a8c63664d6",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500001_heri_anggara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135353568739-on3bq6a9v2aslpa085699vngva1hhacu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfc11WS6DXaR2tgA-9DXtq97ehv6yjREk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135353568739-on3bq6a9v2aslpa085699vngva1hhacu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
